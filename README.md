@@ -25,7 +25,6 @@
 ![Ethers.js](https://img.shields.io/badge/ethers.js-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=%627EEA)
 ![Rust](https://img.shields.io/badge/rust-%234A1F77.svg?style=for-the-badge&logo=rust&logoColor=%FFFFFF)
 ![Framer Motion](https://img.shields.io/badge/framer_motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=%F15B5C)
-![React Three Fiber](https://img.shields.io/badge/react_three_fiber-%000000.svg?style=for-the-badge&logo=react&logoColor=%61DAFB)                              
 ![MongoDB](https://img.shields.io/badge/mongodb-%2300A44E.svg?style=for-the-badge&logo=mongodb&logoColor=%FFFFFF)                   
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%234F5D95.svg?style=for-the-badge&logo=postgresql&logoColor=%FFFFFF)
 
