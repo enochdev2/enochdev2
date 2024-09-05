@@ -20,14 +20,12 @@
 ![React Native](https://img.shields.io/badge/react_native-%23000000.svg?style=for-the-badge&logo=react&logoColor=%61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=%FFFFFF)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%FFFFFF)
+![Solidity](https://img.shields.io/badge/solidity-%2321535F.svg?style=for-the-badge&logo=solidity&logoColor=%F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-%234F5D95.svg?style=for-the-badge&logo=node.js&logoColor=%FFFFFF)
-![Solana](https://img.shields.io/badge/solana-%23000000.svg?style=for-the-badge&logo=solana&logoColor=%00A3F5)
 ![Ethers.js](https://img.shields.io/badge/ethers.js-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=%627EEA)
-![Anchor](https://img.shields.io/badge/anchor-%23000000.svg?style=for-the-badge&logo=solana&logoColor=%00A3F5)
 ![Rust](https://img.shields.io/badge/rust-%234A1F77.svg?style=for-the-badge&logo=rust&logoColor=%FFFFFF)
 
 
-![Solidity](https://img.shields.io/badge/solidity-%2321535F.svg?style=for-the-badge&logo=solidity&logoColor=%F7DF1E)
 
 
 
