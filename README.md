@@ -23,6 +23,8 @@ www.youtube.com/@enoch_blockchain
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=%FFFFFF)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%FFFFFF)
 ![Solidity](https://img.shields.io/badge/solidity-%2321535F.svg?style=for-the-badge&logo=solidity&logoColor=%F7DF1E)
+![Sui](https://img.shields.io/badge/sui-%230000FF.svg?style=for-the-badge&logo=sui&logoColor=white)
+![Aptos](https://img.shields.io/badge/aptos-%2303C9A9.svg?style=for-the-badge&logo=aptos&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%234F5D95.svg?style=for-the-badge&logo=node.js&logoColor=%FFFFFF)
 ![Ethers.js](https://img.shields.io/badge/ethers.js-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=%627EEA)
 ![Rust](https://img.shields.io/badge/rust-%234A1F77.svg?style=for-the-badge&logo=rust&logoColor=%FFFFFF)
