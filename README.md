@@ -1,10 +1,12 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Enoch Promise!
-### 👩🏻‍💻  Full-Stack Web, Mobile & Blockchain Developer || Web3 🤹 Community Moderator || Delivering Cutting-Edge and Tailored Solutions to Businesses.<br/>
+### 👩🏻‍💻  Full-Stack Web, Mobile & Blockchain Developer || Web3 🤹 Community Moderator || Technical & Blockchain Educator  || Delivering Cutting-Edge and Tailored Solutions to Businesses.<br/>
 ### 🔍 Currently diving deep into advanced blockchain solutions and exploring new trends in the tech world!<br/>
 ### 🌐 Sharing insights and updates on my social media platform for learning and growing in Web3 and software development.
 ### 🎥 Creating engaging content on YouTube about Blockchain development, web technologies, and productivity.
+
+www.youtube.com/@enoch_blockchain
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats  
 ![](https://github-readme-stats.vercel.app/api?username=enochdev2&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>  -->
