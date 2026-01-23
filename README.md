@@ -1,7 +1,16 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Enoch Promise!
-### 👩🏻‍💻  Full-Stack Web, Mobile & Blockchain Developer || Web3 🤹 Community Moderator || Technical & Blockchain Educator  || Delivering Cutting-Edge and Tailored Solutions to Businesses.<br/>
+# 👋 Hi, I'm Enoch Promise! — a Full-Stack Software Engineer (Web2 & Web3) building secure, scalable web and blockchain systems with real-world business impact.
+
+### 👩🏻‍💻  I specialize in designing and shipping enterprise-grade applications, smart contracts, and distributed systems across Ethereum, Solana, Aptos, Sui, and Near — with a focus on performance, security, and long-term scalability.<br/>
+
+# My work spans:
+
+### * High-performance frontend systems (React, Next.js)
+### * Scalable backend architectures (Node.js, Express, PostgreSQL, MongoDB)
+### * Production-grade smart contracts and dApps (Solidity, Rust, Move, Anchor)
+
+##  I’m interested in problems where **systems meet scale**: performance, reliability, developer productivity, and products that grow without breaking.
 ### 🔍 Currently diving deep into advanced blockchain solutions and exploring new trends in the tech world!<br/>
 ### 🌐 Sharing insights and updates on my social media platform for learning and growing in Web3 and software development.
 ### 🎥 Creating engaging content on YouTube about Blockchain development, web technologies, and productivity.
