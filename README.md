@@ -4,15 +4,51 @@
 ### 👩🏻‍💻 A Full-Stack Software Engineer (Web2 & Web3) building secure, scalable web and blockchain systems with real-world business impact.
 
 ### 👩🏻‍💻  I specialize in designing and shipping enterprise-grade applications, smart contracts, and distributed systems across Ethereum, Solana, Aptos, Sui, and Near — with a focus on performance, security, and long-term scalability.<br/>
+---
 
-# My work spans:
+### 🧠 What I Work On
 
-### * High-performance frontend systems (React, Next.js)
-### * Scalable backend architectures (Node.js, Express, PostgreSQL, MongoDB)
-### * Production-grade smart contracts and dApps (Solidity, Rust, Move, Anchor)
+- High-performance frontend systems with React and Next.js  
+- Scalable backend architectures with Node.js, Express, PostgreSQL, and MongoDB  
+- Production-grade smart contracts and dApps with Solidity, Rust, Move, and Anchor  
+- Performance optimization, system design, and long-term maintainability  
 
-##  I’m interested in problems where **systems meet scale**: performance, reliability, developer productivity, and products that grow without breaking.
-### 🔍 Currently diving deep into advanced blockchain solutions and exploring new trends in the tech world!<br/>
+I’m especially interested in problems where **systems meet scale**: reducing latency, preventing regressions, improving developer productivity, and designing architectures that don’t degrade as features grow.
+
+---
+
+### 📈 Impact & Engineering Focus
+
+My work is guided by measurable outcomes:
+
+- Reducing interaction latency and improving UX in complex frontends  
+- Designing backend systems that scale predictably under load  
+- Building smart contracts with strong security and audit-ready structure  
+- Shipping systems that reduce operational overhead and improve reliability  
+
+I care about engineering that translates directly into **product stability, user satisfaction, and business results**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, Rust, PostgreSQL, MongoDB  
+**Blockchain:** Solidity, Rust, Move, Anchor, Hardhat, Truffle  
+**Platforms:** Ethereum, Solana, Aptos, Sui, Near  
+
+---
+
+### 🤝 Mentorship & Community
+
+I mentor developers in Solidity, Solana, Aptos, and Sui, helping them build production-ready skills for the Web3 ecosystem.
+
+---
+
+### 📬 Let’s Connect
+
+If you’re building a product that needs to scale — or a system that needs to be reliable under real-world complexity — feel free to reach out.
+
 ### 🎥 Creating engaging content on YouTube about Blockchain development, web technologies, and productivity.
 
 www.youtube.com/@School_Of_Dapp
