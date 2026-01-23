@@ -1,6 +1,7 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Enoch Promise! — ### a Full-Stack Software Engineer (Web2 & Web3) building secure, scalable web and blockchain systems with real-world business impact.
+# 👋 Hi, I'm Enoch Promise! 
+### 👩🏻‍💻 A Full-Stack Software Engineer (Web2 & Web3) building secure, scalable web and blockchain systems with real-world business impact.
 
 ### 👩🏻‍💻  I specialize in designing and shipping enterprise-grade applications, smart contracts, and distributed systems across Ethereum, Solana, Aptos, Sui, and Near — with a focus on performance, security, and long-term scalability.<br/>
 
@@ -12,7 +13,6 @@
 
 ##  I’m interested in problems where **systems meet scale**: performance, reliability, developer productivity, and products that grow without breaking.
 ### 🔍 Currently diving deep into advanced blockchain solutions and exploring new trends in the tech world!<br/>
-### 🌐 Sharing insights and updates on my social media platform for learning and growing in Web3 and software development.
 ### 🎥 Creating engaging content on YouTube about Blockchain development, web technologies, and productivity.
 
 www.youtube.com/@School_Of_Dapp
